@@ -7,6 +7,6 @@ public class InstantiateExample: MonoBehaviour
 
     private void Start()
     {
-        Instantiate( _spawnObject,_parentObject);
+        Instantiate( _spawnObject,_parentObject );
     }
 }
